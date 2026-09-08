@@ -1,4 +1,4 @@
-# ⚡ LIGHTNING HUB V10
+# ⚡ yok
 **The ultimate universal script for any game.**
 By: halilibrahimseviml1
 
